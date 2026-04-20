@@ -10,5 +10,5 @@ This is a website meant to showcase my experience and education using HTML and J
 
 This website is being replaced and will no longer be accessible. Below are screenshots of the site. Navigation bar buttons function and everything.
 
-![Alt text](Screenshot 2026-04-20 111708.png)
-![Alt text](Screenshot 2026-04-20 111726.png)
+![Alt text](images/Screenshot-2026-04-20-111708.png)
+![Alt text](images/Screenshot-2026-04-20-111726.png)
